@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mohamed Shehata"
 title_separator          : "-"
 name                     : &name "Mohamed Shehata"
-description              : &description "Data Scientist"
-url                      : https://maggiewolff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Energy Analyst"
+url                      : https://mhshehata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maggiewolff/maggiewolff.github.io"
+repository               : "mhshehata/mhshehata.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &data_maggie
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maggie Wolff"
+  name             : "Mohamed Shehata"
   avatar           : "maggie_wolff_AI_generated.jpg"
-  bio              : "Data Scientist"
-  location         : "Chicago, IL USA"
+  bio              : "Energy Analyst"
+  location         : "Karlsruhe, Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "maggiewolff"
+  github           : "mhshehata"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : "magwolff"
+  linkedin         : "mohamed-hassan-shehata"
   medium           :  
   orcid            :  
   pinterest        :
