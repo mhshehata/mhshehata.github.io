@@ -4,13 +4,13 @@ main:
   - title: "CV/Resume"
     url: /cv/    
     
-  - title: "Portfolio"
+#  - title: "Portfolio"
     url: /portfolio/
 
 #  - title: "Talks"
     url: /talks/    
 
-#  - title: "Blog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
 
 #  - title: "Publications"
