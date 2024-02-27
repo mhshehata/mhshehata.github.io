@@ -11,8 +11,8 @@ redirect_from:
 
 Work Experience
 ======
-* Feb 2023 - Nov 2023: Energy Consultant, TPM Engineers GmbH
-* Sep 2015 - Sep 2018: Operations Engineer, Angola LNG
+* Feb 2023 - Nov 2023: Energy Consultant, [TPM Engineers GmbH](https://www.tpm-engineers.com/)
+* Sep 2015 - Sep 2018: Operations Engineer, [Angola LNG](https://www.angolalng.com/)
 
 
 Education
