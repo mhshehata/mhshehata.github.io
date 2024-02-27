@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Maggie Wolff"
+title: "Mohamed Shehata"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,4 +23,4 @@ I pivoted to analytics in 2016, after working in marketing and communication rol
 
 Currently working in the travel tech industry analyzing user experiences for a corporate travel booking platform. Holds an MS in Data Science. Ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org). Also oversees a mentorship program via [Data Angels](http://dataangels.org/), a Slack community for women in data.
 
-Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/magwolff). 
+Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-shehata/). 
