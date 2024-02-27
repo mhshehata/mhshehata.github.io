@@ -27,10 +27,10 @@ Work Experience
 
 Education
 ======
-* M.S. in Data Science, [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx), June 2022
-  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
-  * Capstone Project: Analysis and predictive modeling for [UtmostU](https://www.utmostu.org/), the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
-* B.A. in Communication, [Loyola University Chicago](https://www.luc.edu/), May 2004
+* MSc. Energy Business Engineering, [Technische Universität Berlin](https://www.tu.berlin/en/), January 2022
+  * Coursework: Energy & Exergy Engineering, Energy Economics, Integration of Renewable Energies, Energy Markets & Sector Coupling, Energy Storage & Conversion, Energy Law
+  * Thesis: [Kopernikus P2X](https://www.elab2.kit.edu/kopernikus-p2x.php): Production of Synthetic Fuels via Renewable Electricity & Carbon Dioxide Captured from Air .
+* MBA, [UoPeople](https://www.uopeople.edu/), November 2020
 
 
   
