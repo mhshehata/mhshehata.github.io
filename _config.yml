@@ -188,9 +188,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  mywork:
-    output: true
-    permalink: /:collection/:path/
+  
 
 
 # Defaults
@@ -248,15 +246,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _mywork
-  - scope:
-      path: ""
-      type: mywork
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+ 
 
 # Sass/SCSS
 sass:
