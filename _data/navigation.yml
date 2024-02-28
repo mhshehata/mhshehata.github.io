@@ -5,14 +5,14 @@ main:
     url: /cv/    
 
      
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 
 #  - title: "Talks"
 #    url: /talks/    
 
 #  - title: "Blog Posts"
-    url: /year-archive/
+#   url: /year-archive/
 
 #  - title: "Publications"
 #    url: /publications/
