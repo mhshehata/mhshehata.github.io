@@ -16,7 +16,6 @@ Sensitivity Analysis
 <img src="/images/SE-IRR.png">
 - Payback
 <img src="/images/SE-payback.png">
-  
 Construction Costs
 <img src="/images/construction-costs.png">
 
