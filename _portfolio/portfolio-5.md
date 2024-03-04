@@ -13,9 +13,9 @@ collection: portfolio
 
 Sensitivity Analysis
 - IRR
-  <img src="/images/SE-IRR.png">
+<img src="/images/SE-IRR.png">
 - Payback
-  <img src="/images/SE-payback.png">
+<img src="/images/SE-payback.png">
   
 Construction Costs
 <img src="/images/construction-costs.png">
