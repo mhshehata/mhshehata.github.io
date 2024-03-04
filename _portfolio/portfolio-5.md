@@ -5,14 +5,14 @@ collection: portfolio
 ---
 
 
-##Project Description:
+# Project Description:
 
-##Tasks:
+# Tasks:
 
-##Results:
+# Results:
 
-Construction Costs:
+Construction Costs
 <img src="/images/construction-costs.png">
 
-Return Data:
+Return Data
 <img src="/images/return-data.png"> 
