@@ -11,4 +11,4 @@ Tasks:
 
 Results:
 
-<img src="images/return-data.png"> 
+<img src="/images/return-data.png"> 
