@@ -20,4 +20,4 @@ Construction Costs
 <img src="/images/construction-costs.png">
 
 Return Data
-<img src="/images/return-data.png"> onclick="window.open('anotherpage.html', '_blank');" />
+<img src="/images/return-data.png" target= "_blank">
