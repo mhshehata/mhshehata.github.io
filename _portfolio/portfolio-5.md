@@ -11,6 +11,12 @@ collection: portfolio
 
 # Results:
 
+Sensitivity Analysis
+- IRR
+  <img src="/images/SE-IRR.png">
+- Payback
+  <img src="/images/payback.png">
+  
 Construction Costs
 <img src="/images/construction-costs.png">
 
