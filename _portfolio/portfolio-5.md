@@ -1,5 +1,5 @@
 ---
-title: "Solar Valuation"
-# excerpt: "Recommend recipes based on recipe review data from Food.com using the scikit-surprise package"
+title: "Solar PV Plant Valuation Model"
+excerpt: "Financial modelling and valuation of a PV solar plant"
 collection: portfolio
 ---
