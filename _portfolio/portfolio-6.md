@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Students' Mental Health"
-excerpt: 
+excerpt: Does the stay length causes mental difficulties to international students studying abroad?
 collection: portfolio
 ---
 
