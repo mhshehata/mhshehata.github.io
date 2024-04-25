@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Students' Mental Health"
-excerpt: "Recommend running clothes based on weather conditions and my own data using the scikit-learn package"
+excerpt: 
 collection: portfolio
 ---
 
