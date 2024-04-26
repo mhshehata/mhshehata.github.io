@@ -18,13 +18,16 @@ Is the length of stay a contributing factor?
 Return Data
 <img src="/images/results table.png" onclick="window.open(this.src, '_blank')">
 
+
 - Average Score of Depression
   Applying PHQ-9 test to find the effect of the length of stay on causing depression:
 <img src="/images/depression.png">
 
+
 - Average Score of Social Connectedness
   Applying SCS test to find the effect of the length of stay on how international students feel connected/disconnected to a social group:
 <img src="/images/Social Connectedness.png">
+
 
 - Average Score of Acculturative Stress
   Applying ASISS test to find the effect of the length of stay on international students' stress level as they got exposed to a new culture:
