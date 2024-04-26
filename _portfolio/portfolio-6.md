@@ -4,7 +4,7 @@ excerpt: Does the stay length causes mental difficulties to international studen
 collection: portfolio
 ---
 
-<img src="/images/mental_health_cover.jpg">
+<img src="/images/mental_health_cover.jpeg">
 
 
 # Analysis Description:
