@@ -10,9 +10,9 @@ collection: portfolio
 
 # Results:
 
-Sensitivity Analysis
-- IRR
-<img src="/images/SE-IRR.png">
+Average Score of Depression
+Applying PHQ-9 test to find the effect of the length of stay on causing depression:
+<img src="[/images/depression.png)">
 - Payback
 <img src="/images/SE-payback.png">
 Construction Costs
