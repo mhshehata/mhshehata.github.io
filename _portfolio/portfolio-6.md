@@ -4,6 +4,9 @@ excerpt: Does the stay length causes mental difficulties to international studen
 collection: portfolio
 ---
 
+<img src="/images/mental_health_cover.jpg">
+
+
 # Analysis Description:
 Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
 
