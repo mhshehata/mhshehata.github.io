@@ -20,7 +20,7 @@ Return Data
 
 - Average Score of Depression
   Applying PHQ-9 test to find the effect of the length of stay on causing depression:
-<img src="/images/depression.png)">
+<img src="/images/depression.png">
 
 - Average Score of Social Connectedness
   Applying SCS test to find the effect of the length of stay on how international students feel connected/disconnected to a social group:
