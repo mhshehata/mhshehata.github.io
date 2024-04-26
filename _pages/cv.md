@@ -26,8 +26,8 @@ Certificates
 ============
 * Data Analytics, [MasterSchool](https://de.masterschool.com/domains/data-analyst/?fbp=fb.1.1709742005572.1181819148&hubspotutk=e42cf0f0bef6654af13be7ce574cf36a&exp=ctrl)
 * Associate Data Analyst in SQL, [DataCamp](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql)
-* Business Intelligence and Data Analysis, [Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
-* Financial Modeling and Valuation Analysis, [Corporate Finance Institute](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+* Business Intelligence and Data Analysis, [BIDA](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/), Corporate Finance Institute
+* Financial Modeling and Valuation Analysis, [FMVA](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/), Corporate Finance Institute
   
 Skills
 ======
