@@ -1,9 +1,10 @@
 ---
-title: "Life Expectancy"
-excerpt: "Predict life expectancy by country based on other health factors, using the Python scikit-learn package."
+title: "Analyzing Industry Carbon Emissions"
+excerpt: "Which Industries are the worst offenders?"
 collection: portfolio
 ---
 
-Project description: Predict life expectancy and vaccination rates by country based on other health factors, using data from the World Health Organization and the Python scikit-learn package.
+Project description: Product emissions make up more than 75% of global emissions.
+The data, which is publicly available on nature.com, contains product carbon footprints (PCFs) for various companies. PCFs are the greenhouse gas emissions attributable to a given product, measured in CO2 (carbon dioxide equivalent).
 
-More: [Life Expectancy on GitHub](https://github.com/maggiewolff/graduate-studies/tree/main/Life-Expectancy)
+More: [Analyzing Industry Carbon Emissions on GitHub](https://github.com/mhshehata/analyzing_industry_carbon_emissions/tree/main)
