@@ -34,7 +34,7 @@ Skills
 * SQL
   * PostgreSQL Summary Stats and Window Functions, Data-Driven Decision Making in SQL, OLAP
 * Python
-  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, scikit-surprise, SciPy, TensorFlow, Keras  
+  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn 
 * Matlab
 * Tableau
 * PowerQuery
