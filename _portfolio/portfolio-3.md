@@ -15,7 +15,7 @@ What are the top five industry groups with the highest total industry footprint 
 
 ## Results:
 
-<img src="/images/Analying PCF summary.png>
+<img src="/images/Analying PCF summary.png">
 
 
 
