@@ -5,15 +5,15 @@ collection: portfolio
 ---
 <img src="/images/Analyzing Industry Carbon Emissions.jpg">
 
-## Project Description: 
+## Analysis Description
 The data, which is publicly available on nature.com, contains product carbon footprints (PCFs) for various companies in 2020. PCFs are the greenhouse gas emissions attributable to a given product, measured in CO2 (carbon dioxide equivalent).
 
 
-## Tasks:
+## Tasks
 What are the top five industry groups with the highest total industry footprint in 2020?
 
 
-## Results:
+## Results
 
 <img src="/images/Analying PCF summary.png">
 
