@@ -20,4 +20,4 @@ What are the top five industry groups with the highest total industry footprint 
 
 
 
-More: [Analyzing Industry Carbon Emissions on GitHub](https://github.com/mhshehata/analyzing_industry_carbon_emissions/tree/main)
+More about the SQL code: [Analyzing Industry Carbon Emissions on GitHub](https://github.com/mhshehata/analyzing_industry_carbon_emissions/tree/main)
