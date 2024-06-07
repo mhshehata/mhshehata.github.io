@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Levelized Cost of Hydrogen"
-excerpt: "Which Industries are the worst offenders?"
+excerpt: "Quantifying the economic viability of hydrogen production methods using Python, comparing steam methane reforming and water electrolysis to identify the most cost-effective option."
 collection: portfolio
 ---
 <img src="/images/Analyzing Industry Carbon Emissions.jpg">
