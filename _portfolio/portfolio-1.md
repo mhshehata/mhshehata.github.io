@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Levelized Cost of Hydrogen"
+title: "Analyzing Levelized Cost of Hydrogen (LCOH)"
 excerpt: "Quantifying the economic viability of hydrogen production methods using Python, comparing steam methane reforming and water electrolysis to identify the most cost-effective option."
 collection: portfolio
 ---
