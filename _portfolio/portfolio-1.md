@@ -6,7 +6,7 @@ collection: portfolio
 <img src="/images/hydrogen.jpg">
 
 ## Analysis description: 
-This study compares between the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python. The model is used to calculate LCOHs, carbon dioxide emissions, forecast a specific share of renewable energy in the electrolysis electricity which enables better competition between both processes, and estimate a carbon tax to be applied to the carbon dioxide emissions of the steam methane reformer.
+This study compares between the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python. 
 
 
 ## Tasks:
@@ -17,7 +17,7 @@ This study compares between the levelized cost of hydrogen production of the ste
 
 ## Results:
 
-<img src="/images/Analying PCF summary.png">
+<img src="/images/LCOH.png">
 
 
 
