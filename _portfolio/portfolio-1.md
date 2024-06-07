@@ -5,8 +5,8 @@ collection: portfolio
 ---
 <img src="/images/hydrogen.jpg">
 
-## Analysis description: 
-This study compares between the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python. 
+## Analysis Description: 
+This analysis compares the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python. 
 
 
 ## Tasks:
