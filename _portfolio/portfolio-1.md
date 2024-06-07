@@ -24,4 +24,4 @@ This analysis compares the levelized cost of hydrogen production of the steam me
 
 
 
-More: [Analyzing Levelized Cost of Hydrogen on GitHub](https://github.com/mhshehata/Analyzing_levelized_cost_of_hydrogen)
+More about the Python code: [Analyzing Levelized Cost of Hydrogen on GitHub](https://github.com/mhshehata/Analyzing_levelized_cost_of_hydrogen)
