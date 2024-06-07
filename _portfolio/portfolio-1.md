@@ -19,6 +19,8 @@ This analysis compares the levelized cost of hydrogen production of the steam me
 
 <img src="/images/LCOH.PNG">
 
+<img src="/images/RES_CO2.PNG>
+
 
 
 
